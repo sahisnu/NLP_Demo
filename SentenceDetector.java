@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package test_SENTENCE_DETECT;
+package NLP_Demo;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -16,7 +16,7 @@ import opennlp.tools.sentdetect.SentenceModel;
  *
  * @author user
  */
-public class Main {
+public class SentenceDetector {
 
     /**
      * @param args the command line arguments
